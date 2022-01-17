@@ -1,4 +1,4 @@
-You can open this web-site:  https://alexkovval.github.io/react-movies/
+Hi! You can open this web-site:  https://alexkovval.github.io/react-movies/
 
 
 
